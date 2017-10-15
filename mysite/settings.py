@@ -25,7 +25,7 @@ SECRET_KEY = '8xb-ry8*da_krvhr(baaiy29%(%)=cv6ygc$zrz&p5=q9__r)='
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'Artem.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'hasolbasol.pythonanywhere.com']
 
 
 # Application definition
